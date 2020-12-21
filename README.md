@@ -6,5 +6,5 @@ Mich, zu Übungszwecken. Je mehr ich mit Git und IDEs arbeite, desto mehr werde 
 Für meine Mitschüler, um mit mir zu lernen, meinen Code zu optimieren und Austausch zu ermöglichen
 Für Herrn Fra., welcher dann ab und zu nen Blick drauf werfen kann oder sich den Code für die Zukunft abspeichern kann
 
-#WiemachIchWas
-Git ist gar nicht so schwer, wie es aussieht. Ihr clickt im Reiter <>Code 
+Git ist gar nicht so schwer, wie es aussieht. Ihr Clickt im Reiter <>Code auf den Grünen Button mit [Code]
+
