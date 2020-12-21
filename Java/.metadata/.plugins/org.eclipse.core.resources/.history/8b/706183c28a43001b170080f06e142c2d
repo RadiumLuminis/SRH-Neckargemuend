@@ -1,0 +1,15 @@
+
+public class Übung5 {
+
+	public static void main(String[] args) {
+
+		int i, j;
+
+		System.out.println("\ti\tj");
+
+		for (i = 5, j = 25; i <= 9; i++, j--) {
+
+			System.out.println((i-4)+".\t" +i +"\t" +j);
+		}
+	}
+}

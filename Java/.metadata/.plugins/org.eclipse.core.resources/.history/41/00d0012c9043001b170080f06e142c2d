@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Fakultät {
+
+	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		System.out.print("Geben Sie eine ganze Zahl ein: ");
+		int i = s.nextInt();
+
+		System.out.println("Die Fakultät ("+i + "!) entspricht:");
+		
+		for (int a = i; a > 0; a--) {
+			
+			
+		}
+	}
+
+}
