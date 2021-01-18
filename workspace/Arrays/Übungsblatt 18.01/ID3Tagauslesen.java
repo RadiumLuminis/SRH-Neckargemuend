@@ -69,7 +69,7 @@ public class ID3Tagauslesen {
 
 	public static void main(String[] args) {
 		
-		String Dateipfad = new String("C:\\Song6.mp3");
+		String Dateipfad = new String("C:\\Users\\svenk\\Documents\\GitHub\\SRH-Neckargemuend-Java\\Song6.mp3");
 		
 		MP3_Analyse(Dateipfad);
 		
