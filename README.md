@@ -12,5 +12,6 @@ Für Herrn Fra., welcher dann ab und zu nen Blick drauf werfen kann oder sich de
 
 # Wie Funktioniert Das?
 
-Git ist gar nicht so schwer, wie es aussieht. Ihr Clickt im Reiter <>Code auf den Grünen Button mit [Code] Dadurch könnt ihr Das Repository Downloaden. Wenn Ihr die Zip-Datei entpackt habt, dann öffnet Eclipse und wählt den Ordner workspace (SRH-Neckargemuend/workspace) als workspace, und schon fertig. Hier habt ihr dann eine Überblick über alle Übungen, welche wir ab Zeitpunkt X gemacht haben, und die Ich (oder Wer Anders) bearbeitet haben. Ist Thematisch Sortiert
+Git ist gar nicht so schwer, wie es aussieht. Ihr Clickt im Reiter <>Code auf den Grünen Button mit [Code] Dadurch könnt ihr Das Repository Downloaden. Wenn Ihr die Zip-Datei entpackt habt, dann öffnet Eclipse und wählt den Ordner "workspace" (SRH-Neckargemuend-Java/workspace) als workspace, und schon fertig. Hier habt ihr dann eine Überblick über alle Übungen, welche wir ab Zeitpunkt X gemacht haben, und die Ich (oder Wer Anders) bearbeitet haben. Ist Thematisch Sortiert
 
+Außerdem liegen im Ordner "Blätter" die Fragen- und Übungsblätter, diesmal nach Datum sortiert
