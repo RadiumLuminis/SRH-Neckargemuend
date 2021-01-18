@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 public class Array1 {
 
@@ -10,6 +11,7 @@ public class Array1 {
 		
 		System.out.println("Array[0] hat den Wert: " +array[0]);
 		System.out.println("Array[1] hat den Wert: " +array[1]);
+		
 	}
 
 }

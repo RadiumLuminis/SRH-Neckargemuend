@@ -13,6 +13,7 @@ public class Array2 {
 			System.out.println(namen[i]);
 			
 		}
+		
 	}
 
 }
