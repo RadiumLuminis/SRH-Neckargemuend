@@ -26,6 +26,8 @@ public class Übung1a {
 		}
 		
 		System.out.println(fk);
+		
+		s.close();
 	}
 
 }

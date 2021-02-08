@@ -26,6 +26,8 @@ public class Übung6 {
 		
 		System.out.println(11*vzahl);
 		
+		s.close();
+		
 	}
 
 }
