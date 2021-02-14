@@ -6,13 +6,6 @@ public class Adjazenzmatrizen {																				//Wichtig:Die Anzahl der Elem
 		
 		int [][] a = {{0, 0, 1, 1},{0, 0, 1, 0},{1, 1, 0, 0},{1, 0, 0, 0}};									//Erste Matrix
 		int [][] b = {{0, 0, 1, 1},{0, 0, 1, 0},{1, 1, 0, 0},{1, 0, 0, 0}};									//Zweite Matrix
-		
-		if (b.length > a.length)																			//Tauschen der Arrays, wenn das zweite mehr Zeilen haben sollte
-		{																									// (Mein Programm nimmt an, dass a mehr Zeilen hat)
-			int [][] zw = a;
-			a = b;
-			b = zw;
-		}
 				
 		int minl;																							//Ermitteln der kleineren Matrixlänge
 		if (a.length > b[0].length)

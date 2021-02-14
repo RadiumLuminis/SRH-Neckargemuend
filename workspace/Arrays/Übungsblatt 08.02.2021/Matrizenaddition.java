@@ -6,7 +6,7 @@ public class Matrizenaddition {
 		int a[][] = { { 4, 1, 2 }, { 2, 3, 5 }, { 3, 8, 4 } };		//Anlegen der beiden Matrizen
 		int b[][] = { { -3, 2, 0 }, { 2, -1, 0 }, { 1, -2, 1 } };
 
-		System.out.println("Erste Matrix:");						
+			System.out.println("Erste Matrix:");	//------------------------------------------------------------------------------------------------------------------						
 		
 		for(int y = 0; y < a.length; y++)							//Äußere Schleife, läuft über jede Zeile der Matrix ("vertikal")
 		{
@@ -17,7 +17,7 @@ public class Matrizenaddition {
 			System.out.println();									//Zeilenumbruch am Ende jeder Zeile
 		}
 		
-		System.out.println("\nZweite Matrix:");
+			System.out.println("\nZweite Matrix:");	//------------------------------------------------------------------------------------------------------------------
 		
 		for(int y = 0; y < b.length; y++)							//Uuuuuund nochmal
 		{
@@ -28,15 +28,15 @@ public class Matrizenaddition {
 			System.out.println();
 		}
 		
+		System.out.println("\nErgebnismatrix:");	//------------------------------------------------------------------------------------------------------------------
+		
 		int [][] c = new int [a.length][a[0].length];				//Anlegen der Ergebnismatrix, hat gleiche Zeilen und Spaltenanzahl wie die vorhergehenden Matrizen
-		
-		System.out.println("\nErgebnismatrix:");
-		
+			
 		for(int y = 0; y < c.length; y++)							//Uuuuuund nochmal
 		{
 			for(int x = 0; x < c[0].length; x++)
 			{
-				c[y][x] = a[y][x] + b[y][x];						//Aber diesmal wird dies auch gleich zum Initialisieren der Matrix genutzt
+				c[y][x] = a[y][x] + b[y][x];						//Aber diesmal wird dies auch gleich zum Initialisieren der neuen Matrix genutzt
 				System.out.print(c[y][x] + " ");					//Jede Zelle der Ergebnismatrix ergibt sich aus der Zelle in Matrix a plus die Zelle in Matrix b
 			}
 			System.out.println();
