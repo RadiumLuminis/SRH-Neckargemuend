@@ -3,7 +3,7 @@ public class Genesis {
 
 	static Menschen kost = new Menschen();
 	
-	public static void main(String[] args) {
+	public static void main(String [] args) {
 		
 		System.out.println("Der ursprüngliche IQ des Benutzers kost: " +kost.IQ);
 		
