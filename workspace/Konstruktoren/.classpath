@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Übungsblatt 29.03"/>
 	<classpathentry kind="src" path="Übungsblatt 12.04"/>
+	<classpathentry kind="src" path="Übungsblatt 19.04"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

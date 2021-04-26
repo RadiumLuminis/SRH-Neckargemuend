@@ -3,19 +3,22 @@ public class Konto {
 	
 	String inhaber;																											//Anlegen der Variablen
 	
-	float guthaben;
+	double guthaben;
 	
-	float limit;
+	double limit;
 	
-	Konto (String n, float gh, float l) {																					//Anlegen des Konstruktors mit 3 Parametern für inhaber (n), gutahben (gh) und limit (l)							
+	Konto (String n, double gh, double l) {																					//Anlegen des Konstruktors mit 3 Parametern für inhaber (n), gutahben (gh) und limit (l)							
 		inhaber = n;																										
 		guthaben = gh;																										//Konstruktor weist die Werte den Variablen zu
 		limit = l;
 		
 	}
 	
-	public boolean abheben(float betrag) {																					//Anlegen der Methode abheben, Rückgabewert ist boolean, es wird ein Wert (betrag) übergeben
-		if (guthaben - betrag >= limit) 																					//Überprüfen, ob durch den betrag das limit überschritten werden würde
+	public boolean abheben (double betrag) {																				//Anlegen der Methode abheben, Rückgabewert ist boolean, es wird ein Wert (betrag) übergeben
+		if (betrag < 0) {																									//Überprüfen, ob der betrag positiv ist (betrag > 0)
+			return false;
+		}
+		else if (guthaben - betrag >= limit) 																				//Überprüfen, ob durch den betrag das limit überschritten werden würde
 		{
 			guthaben -= betrag;																								//Sofern das limit nich überschritten wird, soll der betrag vom guthaben abgezogen werden
 			return true;																									//Die Funktion gibt dann true zurück, sprich es wurde abgehoben
