@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_l4GLkLb-EeuMPtVPA7YzIg" type="PapyrusUMLClassDiagram" name="Vererbung" measurementUnit="Pixel">
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_l4GLkbb-EeuMPtVPA7YzIg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_l4GLkrb-EeuMPtVPA7YzIg"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_l4GLk7b-EeuMPtVPA7YzIg" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="Vereerbung.uml#_dPf-ELb-EeuMPtVPA7YzIg"/>
+  </styles>
+  <element xmi:type="uml:Model" href="Vereerbung.uml#_dPf-ELb-EeuMPtVPA7YzIg"/>
+</notation:Diagram>

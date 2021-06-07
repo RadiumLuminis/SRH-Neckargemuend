@@ -3,7 +3,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		Trainer löw = new Trainer("Jogo Loew", 56, 10);
+		Trainer löw = new Trainer("Jogi Loew", 56, 10);
 		Spieler can = new Spieler("Emre Can", 37, "Verteidiger", 33, 8, 1);
 		Spieler kroos = new Spieler("Toni Kroos", 31, "Mittelfeld", 101, 3, 17);
 		Torwart neuer = new Torwart("Manuel Neuer", 36, "Torwart", 98, 0, 310, 2);
