@@ -7,5 +7,10 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Aufgaben 05.10"/>
+	<classpathentry kind="src" path="Aufgaben 12.10"/>
+	<classpathentry kind="src" path="Aufgaben 19.10"/>
+	<classpathentry kind="src" path="Aufgaben 26.10"/>
+	<classpathentry kind="src" path="Aufgaben 09.11"/>
+	<classpathentry kind="src" path="Aufgaben 16.11"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
