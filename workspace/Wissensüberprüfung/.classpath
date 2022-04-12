@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="Aufgaben 26.10"/>
 	<classpathentry kind="src" path="Aufgaben 09.11"/>
 	<classpathentry kind="src" path="Aufgaben 16.11"/>
+	<classpathentry kind="src" path="Wiederholung24.01"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

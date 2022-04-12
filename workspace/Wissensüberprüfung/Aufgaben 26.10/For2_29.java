@@ -13,7 +13,7 @@ public class For2_29 {
 			erg *= i;
 		}
 		System.out.println("Die Fakultät von " +k +" ist " +erg);
-
+		s.close();
 	}
 
 }

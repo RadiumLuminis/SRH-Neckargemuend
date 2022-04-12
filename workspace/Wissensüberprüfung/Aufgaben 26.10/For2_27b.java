@@ -21,7 +21,7 @@ public class For2_27b {
 		for (int i = start; start < end; i+=3) {
 			System.out.println(i);
 		}
-		
+		s.close();
 		
 	}
 

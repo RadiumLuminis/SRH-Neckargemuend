@@ -20,6 +20,7 @@ public class For2_27 {
 		for(int i = 1; i <= k; i++) {
 			System.out.println(k - i+1);
 		}
+		s.close();
 		
 	}
 

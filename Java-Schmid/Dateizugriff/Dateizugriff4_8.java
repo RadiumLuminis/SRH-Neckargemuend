@@ -11,7 +11,7 @@ public class Dateizugriff4_8 {
 				steckBriefFile.createNewFile();
 				System.out.println("Datei Steckbrief wurde erfolgreich angelegt!");
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
+				
 				e.printStackTrace();
 			}
 		}
