@@ -34,10 +34,11 @@
     <fullyQualifiedTypeName name="mensch.Mann"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="Personen.Person"/>
     <fullyQualifiedTypeName name="Personen.Klassenraum"/>
     <fullyQualifiedTypeName name="Personen.Schüler"/>
     <fullyQualifiedTypeName name="Personen.Lehrer"/>
     <fullyQualifiedTypeName name="Artikel"/>
+    <fullyQualifiedTypeName name="Personen.Person"/>
+    <fullyQualifiedTypeName name="Personen1.Person"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
