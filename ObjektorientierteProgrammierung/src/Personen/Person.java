@@ -1,33 +1,17 @@
-package mensch;
+package Personen;
 
-public class Mensch {
+public class Person {
 	
 	private String name;
 	private int alter;
 	private String wohnort;
-
-	public Mensch() {
-		this.name = "Max";
-		this.alter = 0;
-		this.wohnort = "Musterhausen";
-	}
-
-	public Mensch(String name, int alter, String wohnort) {
+		
+	public Person(String name, int alter, String wohnort) {
 		this.name = name;
 		this.alter = alter;
 		this.wohnort = wohnort;
 	}
 	
-	public void vorstellen() {
-		System.out.println("Hallo ich bin " +name);
-		System.out.println("Ich bin " +alter +" Jahre alt");
-		System.out.println("Ich komme aus " +wohnort);
-	}
-	
-	public void wasBinIch() {
-		System.out.println("Ich bin ein Mensch");
-	}
-		
 	public String getName() {
 		return name;
 	}
@@ -51,4 +35,9 @@ public class Mensch {
 	public void setWohnort(String wohnort) {
 		this.wohnort = wohnort;
 	}
+
+	public void showInfo() {
+		System.out.println("Ich bin eine Person");
+	}
+
 }

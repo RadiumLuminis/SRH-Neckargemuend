@@ -23,8 +23,21 @@
     <fullyQualifiedTypeName name="auto.Auto"/>
     <fullyQualifiedTypeName name="mensch.Mensch"/>
     <fullyQualifiedTypeName name="konten.Girokonto"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="tiere.Tier"/>
     <fullyQualifiedTypeName name="Bahnpreise.Bahnfahrer"/>
     <fullyQualifiedTypeName name="Bahnpreise.Ticketpreis"/>
+    <fullyQualifiedTypeName name="Zweiräder.Motorrad"/>
+    <fullyQualifiedTypeName name="auto.MercedesSLK"/>
+    <fullyQualifiedTypeName name="maschinen.Rasenmaeher"/>
+    <fullyQualifiedTypeName name="maschinen.Maschine"/>
+    <fullyQualifiedTypeName name="rasenmäher.Rasenmäher"/>
+    <fullyQualifiedTypeName name="mensch.Mann"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="Personen.Person"/>
+    <fullyQualifiedTypeName name="Personen.Klassenraum"/>
+    <fullyQualifiedTypeName name="Personen.Schüler"/>
+    <fullyQualifiedTypeName name="Personen.Lehrer"/>
+    <fullyQualifiedTypeName name="Artikel"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

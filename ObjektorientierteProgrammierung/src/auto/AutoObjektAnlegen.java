@@ -72,8 +72,21 @@ public class AutoObjektAnlegen {
 		
 		System.out.println();
 		int anzahlAutos = Auto.getAnzahlAutos();
-		System.out.println("Anzahl Autos: " +anzahlAutos);
+		System.out.println("Anzahl Autos: " +anzahlAutos +"\n");
 		
+		//1. Objekt der Klasse MercedesSLK anlegen
+		MercedesSLK meinMercedesSLK = new MercedesSLK();
+		
+		meinMercedesSLK.setFarbe("schwarz");
+		meinMercedesSLK.setTueren(2);
+		meinMercedesSLK.beschleunigen();
+		meinMercedesSLK.oeffneDach();
+		
+		//Attribute ausgeben
+		System.out.println("Farbe meinMercedesSLK:\t\t" +meinMercedesSLK.getFarbe());
+		System.out.println("Tueren meinMercedesSLK:\t\t" +meinMercedesSLK.getTueren());
+		System.out.println("Geschwindigkeit meinMercedesSLK:" +meinMercedesSLK.getGeschwindigkeit());
+		System.out.println("Status Dach meinMercedesSLK:\t" +meinMercedesSLK.getDachGeoeffnet());
 	}
 
 }
